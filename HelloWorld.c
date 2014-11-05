@@ -10,5 +10,6 @@ int main()
   return 0;
   
   //add comments for testing
-// Test git change command  
+// Test git status command
+// Test git diff 
 }
