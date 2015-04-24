@@ -9,7 +9,4 @@ int main()
   cout << a << endl;
   return 0;
   
-  //add comments for testing
-// Test git status command
-// Test git diff 
 }
