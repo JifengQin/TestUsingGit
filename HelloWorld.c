@@ -8,4 +8,5 @@ int main()
   int b = 3; //just for testing
   cout << a << endl;
   return 0;
+// fix issue53
 }
