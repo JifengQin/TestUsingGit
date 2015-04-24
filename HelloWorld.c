@@ -8,6 +8,4 @@ int main()
   int b = 3; //just for testing
   cout << a << endl;
   return 0;
-  // master
-// add iss53
 }
